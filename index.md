@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to NIX GitHub Page
 
 You can use the [editor on GitHub](https://github.com/NickOrion21/test1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
